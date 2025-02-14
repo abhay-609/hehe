@@ -1,0 +1,23 @@
+{
+  "name": "hehe-package",
+  "version": "1.0.0",
+  "description": "hehe package hai bhai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhay-609/hehe.git"
+  },
+  "keywords": [
+    "NPM",
+    "tutorial"
+  ],
+  "author": "me khud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhay-609/hehe/issues"
+  },
+  "homepage": "https://github.com/abhay-609/hehe#readme"
+}
